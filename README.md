@@ -1,2 +1,1 @@
-Python
-Portfolio z python 
+Python Portfolio
